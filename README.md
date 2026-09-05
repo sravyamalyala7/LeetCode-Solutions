@@ -5,3 +5,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Minimum Deletions to Remove Min and Max — Medium — Array — Java
 - Find Critical Points in a Linked List — Medium — Linked List — Java
 - Minimum Moves to Collect All Litter — Medium — Searching — Java
+- Contains Duplicate — Easy — Array / HashSet — Java
