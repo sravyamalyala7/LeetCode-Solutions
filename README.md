@@ -6,3 +6,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Find Critical Points in a Linked List — Medium — Linked List — Java
 - Minimum Moves to Collect All Litter — Medium — Searching — Java
 - Contains Duplicate — Easy — Array / HashSet — Java
+- Average of Subtree — DFS to calculate subtree sum and node count.
