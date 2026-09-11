@@ -7,3 +7,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Minimum Moves to Collect All Litter — Medium — Searching — Java
 - Contains Duplicate — Easy — Array / HashSet — Java
 - Average of Subtree — DFS to calculate subtree sum and node count.
+- Total Numbers — Generate valid 3-digit numbers using distinct digits.
