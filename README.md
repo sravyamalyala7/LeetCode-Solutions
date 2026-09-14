@@ -10,3 +10,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Total Numbers — Generate valid 3-digit numbers using distinct digits.
 - Maximum Weight of 4 Non-Overlapping Intervals — Medium — Searching / Dynamic Programming — Java
 - Image Overlap — Medium — Matrix, Brute Force, Translation — Java
+- Rectangle Overlap — Easy — Matrix, Geometry — Java
