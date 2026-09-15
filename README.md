@@ -11,3 +11,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Maximum Weight of 4 Non-Overlapping Intervals — Medium — Searching / Dynamic Programming — Java
 - Image Overlap — Medium — Matrix, Brute Force, Translation — Java
 - Rectangle Overlap — Easy — Matrix, Geometry — Java
+- Maximum Number of Non-overlapping Palindrome Substrings — Medium — Strings, Dynamic Programming — Java
