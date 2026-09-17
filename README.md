@@ -13,3 +13,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Rectangle Overlap — Easy — Matrix, Geometry — Java
 - Maximum Number of Non-overlapping Palindrome Substrings — Medium — Strings, Dynamic Programming — Java
 - Number of Sets of K Non-Overlapping Line Segments — Medium — Dynamic Programming — Java
+- Find Two Non-overlapping Sub-arrays Each With Target Sum — Medium — Prefix Sum, HashMap, Dynamic Programming — Java
