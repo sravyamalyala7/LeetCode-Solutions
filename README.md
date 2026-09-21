@@ -17,3 +17,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Maximum Number of Non-Overlapping Substrings — Hard — Greedy, String, Intervals — Java
 - Circle and Rectangle Overlapping — Medium — Geometry, Math — Java`
 - Reverse Degree of a String — Easy — Strings, Math — Java
+- Find X Value of Array I — Medium — Dynamic Programming, Array, Math — Java
