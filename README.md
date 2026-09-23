@@ -18,3 +18,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Circle and Rectangle Overlapping — Medium — Geometry, Math — Java`
 - Reverse Degree of a String — Easy — Strings, Math — Java
 - Find X Value of Array I — Medium — Dynamic Programming, Array, Math — Java
+- Minimum Operations to Reduce X to Zero — Medium — Sliding Window, Two Pointers — Java
