@@ -19,3 +19,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Reverse Degree of a String — Easy — Strings, Math — Java
 - Find X Value of Array I — Medium — Dynamic Programming, Array, Math — Java
 - Minimum Operations to Reduce X to Zero — Medium — Sliding Window, Two Pointers — Java
+- Smallest Index With Digit Sum Equal to Index — Easy — Arrays, Math — Java
