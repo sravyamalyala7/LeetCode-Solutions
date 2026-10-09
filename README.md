@@ -21,3 +21,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Minimum Operations to Reduce X to Zero — Medium — Sliding Window, Two Pointers — Java
 - Smallest Index With Digit Sum Equal to Index — Easy — Arrays, Math — Java
 - Brace Expansion II — Hard — Strings, Parsing, Set, Recursion — Java
+- Minimum Insertions to Balance a Parentheses String — Medium — Strings, Greedy — Java
