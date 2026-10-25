@@ -23,3 +23,7 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Brace Expansion II — Hard — Strings, Parsing, Set, Recursion — Java
 - Minimum Insertions to Balance a Parentheses String — Medium — Strings, Greedy — Java
 - Minimum Operations to Sort Array — Medium — Searching / Arrays — Java   
+- [Number of Closed Islands](Matrix/NumberOfClosedIslands.java) — DFS, Matrix
+
+
+
