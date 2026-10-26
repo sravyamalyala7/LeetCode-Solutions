@@ -24,6 +24,6 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Minimum Insertions to Balance a Parentheses String — Medium — Strings, Greedy — Java
 - Minimum Operations to Sort Array — Medium — Searching / Arrays — Java   
 - [Number of Closed Islands](Matrix/NumberOfClosedIslands.java) — DFS, Matrix
-
+- Count Islands — Medium — Matrix, BFS — Java
 
 
