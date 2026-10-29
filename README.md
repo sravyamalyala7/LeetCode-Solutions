@@ -26,4 +26,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - [Number of Closed Islands](Matrix/NumberOfClosedIslands.java) — DFS, Matrix
 - Count Islands — Medium — Matrix, BFS — Java
 - Unique Paths — Medium — Matrix — Java
-
+- Palindrome Path — Hard — Trees, Heavy-Light Decomposition, Segment Tree — Java
