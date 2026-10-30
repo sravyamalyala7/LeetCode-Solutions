@@ -27,3 +27,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Count Islands — Medium — Matrix, BFS — Java
 - Unique Paths — Medium — Matrix — Java
 - Palindrome Path — Hard — Trees, Heavy-Light Decomposition, Segment Tree — Java
+- Shortest Path — Medium — Searching, Dijkstra's Algorithm — Java
