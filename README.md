@@ -28,3 +28,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Unique Paths — Medium — Matrix — Java
 - Palindrome Path — Hard — Trees, Heavy-Light Decomposition, Segment Tree — Java
 - Shortest Path — Medium — Searching, Dijkstra's Algorithm — Java
+- Unique Paths With Mirrors — Medium — Matrix, Dynamic Programming — Java
