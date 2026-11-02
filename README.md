@@ -30,3 +30,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Shortest Path — Medium — Searching, Dijkstra's Algorithm — Java
 - Unique Paths With Mirrors — Medium — Matrix, Dynamic Programming — Java
 - Minimum Moves to Equal Array Elements — Medium — Arrays, Math — Java
+- Minimum Moves to Equal Array Elements II — Medium — Arrays, Sorting, Math — Java
