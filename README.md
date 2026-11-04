@@ -32,3 +32,4 @@ Daily LeetCode problem solutions and DSA practice using Java and Python.
 - Minimum Moves to Equal Array Elements — Medium — Arrays, Math — Java
 - Minimum Moves to Equal Array Elements II — Medium — Arrays, Sorting, Math — Java
 - Minimum Moves to Equal Array Elements — Easy — Arrays, Greedy, Math — Java
+- Minimum Operations — Hard — Arrays, Sliding Window, Median, Dynamic Programming — Java
